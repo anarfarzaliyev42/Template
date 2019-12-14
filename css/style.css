@@ -1,0 +1,91 @@
+body{
+    width: 960px;
+    margin: auto;
+}
+.logo1{
+    width: 57px;
+}
+.navbar ul{
+    list-style-type: none;
+    
+}
+div.navbar ul>li{
+    display: inline;
+    margin-left:10px; 
+}
+div.navbar{
+    display: inline;
+    float:right;
+}
+img.image1{
+   width: 100%;
+    height: 360px;
+}
+.left{
+   
+   height: 24px;
+   
+}
+div.logo{
+    width: 960px;
+}
+div.top{
+   height:  250px;
+   width: 707px;
+   
+}
+.left-content{
+    float: left;
+    width: 332px;
+    margin-left: 10px;
+}
+.right-content{
+    float: left;
+    margin-left: 10px;
+    width: 297px;
+}
+.logo2{
+    width: 49px;
+    float: left;
+}
+div.right{
+    margin-left: 35px;
+    float: right;
+    width: 313px;
+    margin-top: -147px;
+}
+.top-content li
+{
+    border-bottom: 1px solid black;
+}
+h4{
+    border-bottom: 1px solid;
+    margin-left: 35px;
+}
+.bottom-content{
+    margin-top: 41px;
+    margin-left: 8px;
+}
+.top-content ul{
+    margin-left: 24px;
+}
+.bottom-content li{
+    list-style-type: none;
+    padding-right: 10px;
+}
+h4.head5{
+    margin-left: 47px;
+    border-bottom: 1px solid black;
+}
+div.bottom{
+    margin-top: -56px;
+    width: 661px;
+}
+footer{
+    margin-top: 382px;
+    border-top: 1px solid black;
+}
+.template{
+    float: right;
+    margin-top: -32px;
+}
